@@ -68,7 +68,8 @@ execute metodunun içinde adında anlaşılacağı kapat() fonksiyonu kullanılm
 		
 	}
 
-}
+	}
+	
 En önemli sınıf Kumanda sınıfıdır. Yazılım Dizaynı burada kendini gösterir.Kumanda sınıfında, 
 Komut interface sınıfından olan nesneleri barındırmak üzere bir dizi tanımlıyoruz. 
 Bu array, kumanda aletinin sahip olduğu tuşları temsil etmektedir.Yani daha önce kullanılan 
@@ -114,7 +115,8 @@ tusla(1) metodları ile çalıştırıyoruz.
 
 		public void kanalDegistir() {
 		}
-}
+	}
+	
 Televizyon sınıfında komut nesnelerinin yapmasını istediğimiz fonksiyonlar bulunmaktadır.
 Test yani ana sınıfta bu fonksiyonların hiç birini belirtmeden çalıştırdığımız fonksiyonlar bu
 sınıftadır.Kodlama yapılırken fonksiyonların ne iş yaptığından 
