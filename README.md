@@ -1,4 +1,7 @@
 # Komut_TD
+![Komut_TD classD](https://user-images.githubusercontent.com/49280604/71390187-5d9b1c00-2610-11ea-9d25-0a256fe466f2.png)
+
+
 Komut Tasarım Deseninde: Bir nesne üzerinde bir işleminin nasıl yapıldığını 
 bilmediğimiz ya da kullanılmak istenen nesneyi tanımadığımız durumlarda,
 yapılmak istenen işlemi bir nesneye dönüştürerek, 
